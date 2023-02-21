@@ -1,4 +1,4 @@
-.signinbutton-container {
+.pagebutton-container {
     width: 201px;
     height: 61px;
     background: #2A4365;
@@ -8,8 +8,8 @@
     justify-content: center;
 }
 
-.signin-child {
-    width: 60px;
+.button-name {
+    width: 74px;
     height: 23px;
     font-family: 'Roboto';
     font-style: normal;
@@ -17,4 +17,6 @@
     font-size: 20px;
     line-height: 23px;
     color: #FFFFFF;
+
+
 }

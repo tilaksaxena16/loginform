@@ -5,9 +5,7 @@ const Signinbutton = () => {
 
     return (
         <>
-            <div className="signinbutton-container">
-                <label className="signin-child">Sign in</label>
-            </div>
+            <button className="signinbutton-container">Sign in</button>
         </>
     )
 
